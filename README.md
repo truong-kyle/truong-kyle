@@ -6,6 +6,6 @@
 <h2>Projects that I've worked on:</h2>
 <ul>
   <li><a href="https://github.com/truong-kyle/PhotoGeoV2">PhotoGeotag:</a> Project for NASA's SpaceApps 2023, this webapp allows users to detect hotspots near where a photo was taken.</li>
-  <li><a href="https://github.com/truong-kyle/Dragon12Calc">Dragon12 Calculator:</a> Class project calculator built for the Embedded Systems course at Lassonde.</li>
+  <li><a href="https://github.com/truong-kyle/Dragon12Calc">Dragon12 Calculator:</a> Multi-digit calculator built for the Dragon12 Light Board, as a Lab Project for an <i>Embedded Systems</i> course. </li>
 </ul>
 
