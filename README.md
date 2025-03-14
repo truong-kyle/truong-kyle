@@ -1,2 +1,3 @@
 <div align="center">
-***SITE UNDER CONSTRUCTION 👷‍♂️***
+<b><i>SITE UNDER CONSTRUCTION 👷‍♂️</i></b>
+</div>
